@@ -1,0 +1,9 @@
+{
+  "name": "belong-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/belong-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["belong"],
+  "// targets": "to see all targets run: nx show project belong-e2e --web",
+  "targets": {}
+}
